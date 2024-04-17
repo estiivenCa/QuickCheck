@@ -1,4 +1,4 @@
-# Quick Check
+# **Quick Check**
 ## `¿Qué es Quick Check?`
 Es una aplicacion de control y registro de asistencia detallada
 
