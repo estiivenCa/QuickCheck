@@ -17,4 +17,4 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 > - Usuario
 > - Instructor
 ## Historias de usuario
-
+[](https://github.com/estiivenCa/QuickCheck/blob/main/historias-de-usuario.jpg)
