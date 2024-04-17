@@ -23,3 +23,7 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 ## `Modelo Relacional`
 
 ## `Casos de uso`
+
+## `Participantes`
+[![estiivenCa](https://github.com/estiivenCa)
+### `Sergio Mila`
