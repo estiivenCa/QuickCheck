@@ -1,4 +1,4 @@
-# **Quick Check :writing_hand:**
+# ***_~Quick Check~  :writing_hand:_***
 ## `¿Qué es Quick Check?`
 Es una aplicacion de control y registro de asistencia detallada
 
