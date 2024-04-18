@@ -25,5 +25,5 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 ## `Casos de uso`
 
 ## `Participantes`
-[![estiivenCa](https://www.shareicon.net/data/128x128/2016/11/29/858029_media_512x512.png)](https://github.com/estiivenCa)
-### `Sergio Mila`
+[![estiivenCa](https://www.shareicon.net/data/128x128/2016/11/29/858029_media_512x512.png)](https://github.com/estiivenCa)  [![HectorSantiag0](https://www.shareicon.net/data/128x128/2016/12/19/863662_media_512x512.png)](https://github.com/HectorSantiag0)
+### `Sergio Mila` `Hector Ortiz`
