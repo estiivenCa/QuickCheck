@@ -1,4 +1,6 @@
-# ***_~Quick Check~  :writing_hand:_***
+<img src="https://blog.flamingtext.com/blog/2024/04/18/flamingtext_com_1713461882_76238231.gif" border="0" alt="" title="">
+
+
 ## `¿Qué es Quick Check?`
 Es una aplicacion de control y registro de asistencia detallada
 
@@ -27,4 +29,5 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 
 ## `Participantes:`
 [![estiivenCa](https://www.shareicon.net/data/128x128/2016/11/29/858029_media_512x512.png)](https://github.com/estiivenCa)  [![HectorSantiag0](https://www.shareicon.net/data/128x128/2016/12/19/863662_media_512x512.png)](https://github.com/HectorSantiag0)
-### `Sergio Mila` `Hector Ortiz`
+<br>
+<img src="https://blog.flamingtext.com/blog/2024/04/18/flamingtext_com_1713462714_76238234.gif" border="0" alt="" title=""><img src="https://blog.flamingtext.com/blog/2024/04/18/flamingtext_com_1713462898_76238236.gif" border="0" alt="" title="">
