@@ -20,13 +20,6 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 > - Adminiostrador
 > - Usuario
 > - Instructor
-## `Historias de usuario`
-#### En las historias de usuario se detalla lo que puede hacer en la aplicacion cada [Rol](https://github.com/estiivenCa/QuickCheck?tab=readme-ov-file#tipo-de-roles)
-![](https://github.com/estiivenCa/QuickCheck/blob/main/historias-de-usuario.jpg)
-## `Modelo Relacional`
-
-## `Casos de uso`
-
 ## `Participantes:`
 [![estiivenCa](https://www.shareicon.net/data/128x128/2016/11/29/858029_media_512x512.png)](https://github.com/estiivenCa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HectorSantiag0](https://www.shareicon.net/data/128x128/2016/12/19/863662_media_512x512.png)](https://github.com/HectorSantiag0)
 <br>
