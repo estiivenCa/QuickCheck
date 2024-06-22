@@ -14,8 +14,7 @@ Desarrollar un sistema de información para el SENA mediante el uso de técnicas
 ## `Objetivos especificos:`
 > - Garantizar que la aplicación capture de manera precisa la información del código QR, evitando errores en el registro de asistencia
 > - Implementar medidas de seguridad robustas para proteger la información de asistencia y garantizar la privacidad de los usuarios
-> - Diseñar una interfaz fácil de usar que permita a los usuarios escanear códigos QR de manera rápida y sencilla, minimizando la curva de aprendizaje.
-> - 
+> - Diseñar una interfaz fácil de usar que permita a los usuarios escanear códigos QR de manera rápida y sencilla, minimizando la curva de aprendizaje
 ## `Participantes:`
 [![estiivenCa](https://www.shareicon.net/data/128x128/2016/11/29/858029_media_512x512.png)](https://github.com/estiivenCa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HectorSantiag0](https://www.shareicon.net/data/128x128/2016/12/19/863662_media_512x512.png)](https://github.com/HectorSantiag0)
 <br>
